@@ -1,0 +1,24 @@
+📋 Resumen de Ventas - Generado el Mon Apr  7 04:45:01 UTC 2025
+------------------------------------------
+📅 Total de ventas por mes:
+2024-05: $11055.00
+2024-06: $11545.00
+2024-07: $30775.00
+2024-08: $20470.00
+2024-09: $23900.00
+2024-10: $23220.00
+2024-01: $14475.00
+2024-11: $26090.00
+2024-02: $23935.00
+2024-03: $25820.00
+2024-12: $17910.00
+2024-04: $29780.00
+
+🎯 Producto más vendido:
+Laptop con 153 unidades vendidas
+
+💰 Monto total anual:
+Total: $258975.00
+
+👤 Cliente más frecuente:
+Elena con 45 compras
